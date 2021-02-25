@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ivo Panayotov</Authors>
+    <Company>Like A Sunshine</Company>
+    <Description>Circle surface area, perimeter and diameter calculations;
+Triangle surface area, perimeter and height calculations;
+Rectangle surface area, perimeter and diagonal calculations.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>License.md</PackageLicenseFile>
+    <Copyright>Ivo Panayotov</Copyright>
+    <Version>1.0.2</Version>
+    <PackageProjectUrl>https://github.com/ImPanayotov/NuGet/tree/master/MathLibPan</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ImPanayotov/NuGet/tree/master/MathLibPan</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <PackageTags>C#</PackageTags>
+    <PackageReleaseNotes>Minor changes on the rectangle methods;</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageIcon>Icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>D:\Projects\NuGet\MathLibPan\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\NuGet\MathLibPan\Icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\..\..\..\NuGet\MathLibPan\License.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

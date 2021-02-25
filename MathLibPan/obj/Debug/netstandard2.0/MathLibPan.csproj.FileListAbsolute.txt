@@ -1,0 +1,9 @@
+D:\Projects\NuGet\MathLibPan\netstandard2.0\MathLibPan.deps.json
+D:\Projects\NuGet\MathLibPan\netstandard2.0\MathLibPan.dll
+D:\Projects\NuGet\MathLibPan\netstandard2.0\MathLibPan.pdb
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.csprojAssemblyReference.cache
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.AssemblyInfoInputs.cache
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.AssemblyInfo.cs
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.csproj.CoreCompileInputs.cache
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.dll
+D:\Projects\MentorMate\DevCamp\01. Programming Basics\01. Crash Course\MathLibPan\obj\Debug\netstandard2.0\MathLibPan.pdb

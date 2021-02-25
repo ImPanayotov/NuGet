@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MathLibPan</id>
+    <version>1.0.2</version>
+    <authors>Ivo Panayotov</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">License.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>Icon.png</icon>
+    <projectUrl>https://github.com/ImPanayotov/NuGet/tree/master/MathLibPan</projectUrl>
+    <description>Circle surface area, perimeter and diameter calculations;
+Triangle surface area, perimeter and height calculations;
+Rectangle surface area, perimeter and diagonal calculations.</description>
+    <releaseNotes>Minor changes on the rectangle methods;</releaseNotes>
+    <copyright>Ivo Panayotov</copyright>
+    <tags>C#</tags>
+    <repository type="public" url="https://github.com/ImPanayotov/NuGet/tree/master/MathLibPan" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\NuGet\MathLibPan\netstandard2.0\MathLibPan.dll" target="lib\netstandard2.0\MathLibPan.dll" />
+    <file src="D:\Projects\NuGet\MathLibPan\Icon.png" target="Icon.png" />
+    <file src="D:\Projects\NuGet\MathLibPan\License.md" target="License.md" />
+  </files>
+</package>
